@@ -238,6 +238,21 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				</tr>
 		</tr>
 		<tr>
+			<td>
+				<a href="https://www.twitch.tv/ruandersonvieira">Randerson Vieira</a>
+			</td>
+			<td>
+				<p></p>
+			</td>
+			<td>
+				<p></p>
+			</td>
+			<td>
+				<p></p>
+			</td>
+			</tr>
+	</tr>
+		<tr>
 				<td>
 					<a href="https://www.twitch.tv/RodrigoDeveloper">Rodrigo Developer</a>
 				</td>
