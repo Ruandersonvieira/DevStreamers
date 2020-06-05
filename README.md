@@ -1,4 +1,4 @@
-# DevStreamers
+# Streamers & Channels
 Listagem de streamers Dev, Design, Games e Tech das plataforms Twitch, YouTube e afins...
 
 ## Twitch
