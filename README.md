@@ -39,9 +39,22 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 						<p>Node<br>React<br>React-Native</p>
 				 </td>
          <td>
-						<p>2ª: 09:00 PM<br>4ª: 09:00 PM<br>Sa: 09:00 PM</p>
 				 </td>
 			</tr>
+			<tr>
+				<td>
+						<a href="https://www.twitch.tv/codeshow">Code Show</a>
+				</td>
+				<td>
+					 <p>Full-Stack<br>Mobile</p>
+				</td>
+				<td>
+					 <p>Node<br>React<br>React-Native</p>
+				</td>
+				<td>
+					 <p></p>
+				</td>
+		 </tr>
 			<tr>
 				<td>
 					<a href="https://www.twitch.tv/codigodaste">Codigo Da Ste</a>
