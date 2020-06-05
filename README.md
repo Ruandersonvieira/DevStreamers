@@ -61,14 +61,14 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 					<a href="https://www.twitch.tv/csorlandi">CsOrlandi</a>
 				</td>
 				<td>
-					<p></p>
-				</td>
-				<td>
-					<p></p>
-				</td>
-				<td>
-					<p></p>
-				</td>
+					<p>Full-Stack<br>Mobile</p>
+			 	</td>
+			 	<td>
+					<p>Node<br>React<br>React-Native</p>
+			 	</td>
+			 	<td>
+					<p>2ª: 07:00 PM<br>4ª: 07:00 PM<br>6ª: 07:00 PM</p>
+			 	</td>
 		</tr>
 		<tr>
 				<td>
