@@ -55,7 +55,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -70,7 +69,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -85,7 +83,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -100,7 +97,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -115,7 +111,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -130,7 +125,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -145,7 +139,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -160,7 +153,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -175,7 +167,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -190,7 +181,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -205,7 +195,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -220,7 +209,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -235,7 +223,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 			<td>
@@ -265,7 +252,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -280,7 +266,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -295,7 +280,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -310,7 +294,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -325,7 +308,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
@@ -340,7 +322,6 @@ Listagem de streamers Dev, Design, Games e Tech das plataformas Twitch, YouTube 
 				<td>
 					<p></p>
 				</td>
-				</tr>
 		</tr>
 		<tr>
 				<td>
